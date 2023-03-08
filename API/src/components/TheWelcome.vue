@@ -30,7 +30,7 @@
 
           <a href="#"
             class="block w-full rounded bg-white px-12 py-3 text-sm font-medium text-blue-600 shadow hover:text-blue-700 focus:outline-none focus:ring active:text-blue-500 sm:w-auto">
-            <RouterLink to="//personas">Ver ingresados</RouterLink>
+            <RouterLink to="/personas">Ver ingresados</RouterLink>
           </a>
         </div>
       </div>
