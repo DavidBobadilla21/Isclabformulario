@@ -44,4 +44,18 @@ import HelloWorld from './components/HelloWorld.vue'
     </div>
   </nav>
   <RouterView />
+
+  <footer class="bg-black" aria-labelledby="footer-heading">
+  <h2 id="footer-heading" class="sr-only">Footer</h2>
+
+  <div class="px-4 py-10 mx-auto bg-black max-w-7xl sm:px-6 lg:px-16">
+    <div class="flex flex-wrap items-baseline lg:justify-center">
+      <span class="mt-2 text-sm font-light text-gray-500">
+        Copyright © 2020 - 2021
+        <a href="https://wickedlabs.dev" class="mx-2 text-wickedblue hover:text-white" rel="noopener noreferrer">@wickedlabsHQ</a>. Since 2020
+      </span>
+    </div>
+  </div>
+</footer>
+
 </template>
