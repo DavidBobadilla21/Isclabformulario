@@ -1,3 +1,9 @@
+<script setup>
+import TheWelcome from '../components/Personascomp.vue'
+</script>
+
 <template>
-<h1>hola</h1>
+  <main>
+    <TheWelcome />
+  </main>
 </template>
